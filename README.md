@@ -45,6 +45,8 @@ You can include Bootstrap in your project using npm. Run the following command:
 
 npm install bootstrap
 
+npm i react-router-dom
+
 Usage
 Start the development server:
 
