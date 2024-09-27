@@ -9,7 +9,6 @@ A simple and responsive web application for healthcare services, built using Rea
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 
 
 ## Features
@@ -45,6 +44,7 @@ Install Bootstrap:
 You can include Bootstrap in your project using npm. Run the following command:
 
 npm install bootstrap
+
 Usage
 Start the development server:
 
@@ -57,29 +57,6 @@ To build the app for production, run:
 
 npm run build
 This will create an optimized build in the build folder.
-
-Folder Structure
-arduino
-Copy code
-healthcare-services-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   │   └── image.png
-│   ├── Component/
-│   │   ├── About.jsx
-│   │   ├── Card.jsx
-│   │   ├── ContactForm.jsx
-│   │   ├── Footer.jsx
-│   │   ├── HeroSection.jsx
-│   │   └── ServiceList.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── index.jsx
-├── package.json
-└── README.md
-
 
 
 
